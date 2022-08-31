@@ -1,0 +1,2 @@
+#!/bin/bash
+tutry ls -apm | sort -d
