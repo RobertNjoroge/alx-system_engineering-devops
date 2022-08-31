@@ -1,2 +1,2 @@
 #!/bin/bash
-tutry ls -apm | sort -d
+ls -apmi | sort -d
