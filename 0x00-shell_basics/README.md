@@ -23,5 +23,8 @@ Display current directory contents.
 6-firstdirectory
 Create a script that creates a directory named my_first_directory in the /tmp/ directory\n
 7-movethatfile
-Move the file betty from /tmp/ to /tmp/my_first_directory
+Move the file betty from /tmp/ to /tmp/my_first_directory\n
+
+8-firstdelete
+Delete the file betty
 
