@@ -1,1 +1,2 @@
-readme file name is Robert
+#!/bin/bash
+This is a software development project on shell basics\n
