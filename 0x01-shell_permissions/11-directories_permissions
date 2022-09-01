@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rwx
+chmod ugo+rwx /dir/11-directories_permissions
