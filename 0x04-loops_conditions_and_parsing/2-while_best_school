@@ -3,7 +3,7 @@
 #Use while loop only
 
 i = 1
-while((i <= 10))
+while((i < 10))
 do
  echo "Best School"
  ((i++))
