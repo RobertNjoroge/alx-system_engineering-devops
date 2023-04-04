@@ -6,11 +6,11 @@ sudo apt-get -y install haproxy
 
 server_config=\
 "
-frontend sage-frontend
+frontend robertnjoroge-frontend
         bind *:80
         mode http
-        default_backend sage-backend
-backend sage-backend
+        default_backend robertnjoroge-backend
+backend robertnjoroge-backend
         balance roundrobin
         server 124951-web-01 54.88.65.48:80 check
         server 124951-web-02 54.210.52.145:80 check
